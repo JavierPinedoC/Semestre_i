@@ -16,7 +16,8 @@ public class translation {
        if (s.equals(aux)){
           System.out.println("YES");
         }
-       
+        
+        
        else {
           System.out.println("NO"); 
        } 
